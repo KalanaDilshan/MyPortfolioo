@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e9a2d8df-241b-4fd7-adb9-c4584bb73513" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../My Portfolio/assets/my.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689514967445</updated>
-      <workItem from="1689514968771" duration="524000" />
+      <workItem from="1689514968771" duration="1145000" />
     </task>
     <servers />
   </component>
